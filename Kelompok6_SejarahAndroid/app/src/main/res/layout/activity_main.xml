@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sejarah Android"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2003: Awal Mula Android Inc.\nDidirikan pada Oktober 2003 di Palo Alto oleh Andy Rubin, Rich Miner, Nick Sears, dan Chris White. Pada awalnya, OS ini dirancang khusus untuk kamera digital canggih. Namun, karena pasar kamera digital dinilai sempit, mereka memutar arah (pivot) ke pasar telepon seluler untuk menyaingi Symbian dan Windows Mobile.\n\n2005: Akuisisi oleh Google\nPada Juli 2005, Google mengakuisisi Android Inc. Langkah strategis ini menandai keseriusan Google merambah pasar seluler dengan mengembangkan sistem operasi berbasis kernel Linux.\n\n2007: OHA &amp; Peluncuran Resmi\nPada 5 November 2007, konsorsium perusahaan teknologi bernama Open Handset Alliance (OHA) resmi dibentuk. Di hari yang sama, Android diumumkan ke publik sebagai platform perangkat seluler yang bersifat open-source.\n\n2008: Android 1.0 &amp; Perangkat Pertama\nAndroid 1.0 resmi dirilis pada September 2008. Smartphone komersial pertama di dunia yang menjalankannya adalah HTC Dream (dikenal juga sebagai T-Mobile G1), yang menampilkan integrasi penuh dengan ekosistem layanan Google.\n\n2009 - 2018: Era Ekspansi &amp; Material Design\nAndroid mulai menggunakan nama makanan manis (Cupcake hingga Pie). Pembaruan signifikan terjadi pada Android 5.0 Lollipop (2014) yang memperkenalkan bahasa desain antarmuka revolusioner bernama 'Material Design'.\n\n2019 - Sekarang: Privasi, Layar Lipat &amp; AI\nMulai Android 10 (2019), Google berhenti menggunakan penamaan makanan manis untuk publik. Fokus pengembangan modern dialihkan pada pengetatan privasi pengguna, dukungan perangkat layar lipat (foldables), kustomisasi desain dinamis 'Material You', serta integrasi Kecerdasan Buatan (AI) secara mendalam."
+            android:textSize="15sp"
+            android:lineSpacingExtra="6dp"
+            android:layout_marginBottom="24dp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <Switch
+            android:id="@+id/switchTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mode Gelap"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lihat Arsitektur &amp; Info Device" />
+
+    </LinearLayout>
+</ScrollView>

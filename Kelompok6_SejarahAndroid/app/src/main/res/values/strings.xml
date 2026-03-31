@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kelompok6</string>
+    <string name="sejarah_android">Sejarah Android</string>
+    <string name="_2003_android_inc_berdiri_n_n2005_diakuisisi_google_n_n2007_android_diumumkan_n_n2008_rilis_android_1_0_g1_n_nsekarang_versi_11_15">2003: Android Inc. berdiri\n\n2005: Diakuisisi Google\n\n2007: Android diumumkan\n\n2008: Rilis Android 1.0 (G1)\n\nSekarang: Versi 11-15+</string>
+    <string name="lihat_arsitektur_amp_info_device"><![CDATA[Lihat Arsitektur & Info Device]]></string>
+    <string name="application">Application</string>
+    <string name="arsitektur_android">Arsitektur Android</string>
+    <string name="application_framework">Application Framework</string>
+    <string name="android_runtime_art">Android Runtime (ART)</string>
+    <string name="libraries">Libraries</string>
+    <string name="linux_kernel">Linux Kernel</string>
+    <string name="kembali_ke_sejarah">Kembali ke Sejarah</string>
+</resources>
