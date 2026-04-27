@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4A90A4</color>
+    <color name="primary_variant">#357A8A</color>
+    <color name="background">#1A1A2E</color>
+    <color name="card_background">#252542</color>
+    <color name="surface">#2E2E50</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0C8</color>
+    <color name="accent">#A0C4FF</color>
+    <color name="rarity_gold">#FFD700</color>
+    <color name="divider">#3A3A5C</color>
+</resources>
