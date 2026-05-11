@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Genshin Characters</string>
+    <string name="featured_characters">Featured Characters</string>
+    <string name="all_characters">All Characters</string>
+    <string name="btn_youtube">YouTube</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_back">Back</string>
+    <string name="label_weapon">Weapon</string>
+    <string name="label_rarity">Rarity</string>
+    <string name="label_about">About</string>
+    <string name="character_image">Character image</string>
+</resources>
